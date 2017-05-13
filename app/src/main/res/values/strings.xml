@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jumble keyboard</string>
+    <string name="keyboard_name">Jumble Game</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
